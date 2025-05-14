@@ -1,5 +1,7 @@
 # modelviewer
 
+The publication discussing the purpose of this project:  https://doi.org/10.1002/cbic.202500036
+
 ## Model preparation in PyMOL
 •	Load and customize the model in PyMOL (2.4 or above!)
 
